@@ -1,4 +1,4 @@
-"""-DISEASE-PREDICTION-FROM-SYMPTOMS"""
+"""DISEASE-PREDICTION-FROM-SYMPTOMS"""
 
 Supervised Machine Learning
 
@@ -8,7 +8,7 @@ This repository contains an implementation of supervised machine learning models
 
 What you'll find:
 1.Python code for data preprocessing and cleaning.
-2.Implementations of popular machine learning algorithms like Random Forest, Decision Trees, Support Vector Machine for predicting diseases.
+2.Implementations of popular machine learning algorithms like Random Forest, Decision Trees and Support Vector Machine for predicting diseases.
 3.Tools for training, validating, and evaluating the performance of the machine learning models.
 
 Requirements:
